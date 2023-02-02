@@ -11,5 +11,5 @@ ________________________________________________________________________________
 Instrucciones: 
 
 1) Descargue los archivos del repositorio y guardelos en una misma carpeta
-2) En el IDE de su preferencia ejecute con Python el archivo de pruebas llamado "pruebas.py"
+2) En el IDE de su preferencia, ejecute con Python el archivo de pruebas llamado "pruebas.py"
 3) Verifique los resultados
